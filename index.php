@@ -17,5 +17,15 @@
 		<li><a href="lab1/constant.php">Константы (constant.php)</a></li>
 		<li><a href="phpinfo.php">Информация о PHP (phpinfo.php)</a></li>
 	</ul>
+    	<h2>Лабораторная работа №2</h2>
+	<ul>
+		<li><a href="lab2/for.php">Цикл for (for.php)</a></li>
+		<li><a href="lab2/while.php">Цикл while (while.php)</a></li>
+		<li><a href="lab2/table.php">Таблица умножения (table.php)</a></li>
+		<li><a href="lab2/menu.php">Меню (menu.php)</a></li>
+		<li><a href="lab2/gettable.php">Функция getTable (gettable.php)</a></li>
+		<li><a href="lab2/getmenu.php">Функция getMenu (getmenu.php)</a></li>
+		<li><a href="lab2/functions.php">Пользовательские функции (functions.php)</a></li>
+	</ul>
 </body>
 </html>
